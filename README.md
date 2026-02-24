@@ -1,5 +1,10 @@
+![logo](https://github.com/aseemkassar/aseemkassar/blob/main/header_gif.gif)
 <h1 align="center">Hi 👋, I'm aseemkassar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
+<img align="right" alt="Kryptora" width="400"
+src="https://github.com/aseemkassar/aseemkassar/blob/main/programmer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aseemkassar&label=Profile%20views&color=0e75b6&style=flat" alt="aseemkassar" /> </p>
 
