@@ -35,7 +35,17 @@ Hello! I'm **Aseem Kassar** — a **Final Year B.Tech Computer Science student**
 - 📌 Currently working on **College Seat Planner**
 - 🌱 Learning **Power BI, Machine Learning & Advanced SQL**
 - 💬 Ask me about **Python, SQL, Data Analytics & Databases**
-- ⚡ Fun fact: I enjoy exploring Linux and scalable systems
+  ---
+
+# ⚡ Fun Fact
+
+```javascript
+while(!success){
+    keepLearning();
+    keepBuilding();
+    keepImproving();
+}
+```
 
 ---
 
