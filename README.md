@@ -12,9 +12,11 @@
 
 ---
 
+<img align="right" alt="Programmer" width="400" src="https://github.com/aseemkassar/aseemkassar/blob/main/programmer.gif">
+
 # 👨‍💻 About Me
 
-Hello! I'm **Aseem Kassar** — a **Final Year B.Tech Computer Science student** passionate about analyzing data and extracting meaningful insights from data to solve real-world problems.
+Hello! I'm **Aseem Kassar** — a **Final Year B.Tech Computer Science student** passionate about analyzing data and transforming raw data into meaningful insights to solve real-world problems.
 
 - 🎓 Final Year B.Tech (Computer Science)
 - 📊 Working with **Data Analysis & Visualization**
@@ -24,6 +26,8 @@ Hello! I'm **Aseem Kassar** — a **Final Year B.Tech Computer Science student**
 - 🐧 Linux & Ubuntu Enthusiast
 - 🤝 Open to internships, freelance work, collaborations & full-time opportunities
 
+<br>
+
 ---
 
 # 🔭 Current Work
@@ -31,6 +35,7 @@ Hello! I'm **Aseem Kassar** — a **Final Year B.Tech Computer Science student**
 - 📌 Currently working on **College Seat Planner**
 - 🌱 Learning **Power BI, Machine Learning & Advanced SQL**
 - 💬 Ask me about **Python, SQL, Data Analytics & Databases**
+- ⚡ Fun fact: I enjoy exploring Linux and scalable systems
 
 ---
 
@@ -95,5 +100,7 @@ Hello! I'm **Aseem Kassar** — a **Final Year B.Tech Computer Science student**
 <div align="center">
 
 ### 📈 Turning Raw Data into Meaningful Insights
+
+⭐ Thanks for visiting my profile!
 
 </div>
