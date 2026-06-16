@@ -1,3 +1,5 @@
+![logo](https://github.com/aseemkassar/aseemkassar/blob/main/header_gif.gif)
+
 <div align="center">
 
 # Hi 👋, I'm Aseem Kassar
@@ -12,7 +14,7 @@
 
 # 👨‍💻 About Me
 
-Hello! I'm **Aseem Kassar** — a **Final Year B.Tech Computer Science student** passionate about analyzing data and extracting meaningful insights to solve real-world problems.
+Hello! I'm **Aseem Kassar** — a **Final Year B.Tech Computer Science student** passionate about analyzing data and extracting meaningful insights from data to solve real-world problems.
 
 - 🎓 Final Year B.Tech (Computer Science)
 - 📊 Working with **Data Analysis & Visualization**
@@ -24,15 +26,23 @@ Hello! I'm **Aseem Kassar** — a **Final Year B.Tech Computer Science student**
 
 ---
 
+# 🔭 Current Work
+
+- 📌 Currently working on **College Seat Planner**
+- 🌱 Learning **Power BI, Machine Learning & Advanced SQL**
+- 💬 Ask me about **Python, SQL, Data Analytics & Databases**
+
+---
+
 # 🌐 Connect with me
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/mohd-aseem-023893348/">
+<a href="https://www.linkedin.com/in/mohd-aseem-023893348/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://instagram.com/aseem.kassar">
+<a href="https://instagram.com/aseem.kassar" target="_blank">
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
@@ -49,11 +59,17 @@ Hello! I'm **Aseem Kassar** — a **Final Year B.Tech Computer Science student**
 </p>
 
 <p>
+
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi"/>
+
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
+
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+
 </p>
 
 ---
@@ -62,15 +78,15 @@ Hello! I'm **Aseem Kassar** — a **Final Year B.Tech Computer Science student**
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=aseemkassar&show_icons=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=aseemkassar&show_icons=true&theme=tokyonight"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aseemkassar"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aseemkassar&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aseemkassar&layout=compact"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aseemkassar&layout=compact&theme=tokyonight"/>
 
 </p>
 
