@@ -27,6 +27,11 @@ Hello! I'm **Aseem Kassar** — a **Final Year B.Tech Computer Science student**
 - 🤝 Open to internships, freelance work, collaborations & full-time opportunities
 
 <br>
+## 🚀 Portfolio Website
+
+🌐 **Visit My Portfolio:** <a href="https://aseemkasssarr.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/Visit-My%20Portfolio-00BFFF?style=for-the-badge&logo=google-chrome&logoColor=white"/> </a>
+
+📌 Explore my projects, skills, dashboards, certifications, and journey in Data Analytics.
 
 ---
 
